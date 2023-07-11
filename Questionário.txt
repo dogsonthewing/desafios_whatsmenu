@@ -1,0 +1,28 @@
+1 - Com base nos seu projetos já desenvolvidos, qual sua familiaridade com JavaScript?
+( ) Basico
+(X) Intermediário
+( ) Avançado
+
+2 - Quais ferramentas JS. você tem experiência?
+( ) Angular 2 ou mais recente
+( ) ReactJS 15 ou mais recente
+( ) NextJS 10 ou mais recente
+( ) expressjs
+( ) ionic 2 ou mais recente
+( ) AdonisJS 4.1 ou mais recente
+( ) Outros
+Descreva outros
+
+3 - Você já trabalhou com MVC? 
+Sim - Framework Cake PHP
+
+4 - Qual seu nível de conhecimento MySQL?
+( ) Básico
+(X) Intermediário
+( ) Avançado
+
+Você já trabalhou com alguma ORM? Se sim, qual? 
+Não
+
+Já trabalhou com git em algum projeto? 
+Sim
